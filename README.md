@@ -11,8 +11,8 @@ echo [コマンド] > /dev/myled0
 sudo rmmod myled
 ~~~
 ### コマンドの種類及び動作
-r : 時計回りにledが点灯する
-l :反時計回りにledが点灯する 
-c :すべてのledが点灯して消える
+- r : 時計回りにledが点灯する
+- l :反時計回りにledが点灯する 
+- 1 :すべてのledが点灯して消える
 ## 動画URL
 https://youtu.be/7j6U-olSxvg
